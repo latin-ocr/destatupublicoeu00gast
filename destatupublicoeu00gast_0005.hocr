@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./destatupublicoeu00gast_0005.png"; bbox 0 0 2180 3721; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 800 1106 1441 1213">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 800 1106 1441 1213">
+     <span class='ocr_line' id='line_1_1' title="bbox 800 1106 1441 1213; baseline -0.003 -27"><span class='ocrx_word' id='word_1_1' title='bbox 800 1107 858 1213; x_wconf 83' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1013 1170 1027 1183; x_wconf 92' lang='lat'>.</span> <span class='ocrx_word' id='word_1_3' title='bbox 1076 1106 1441 1186; x_wconf 61' lang='lat' dir='ltr'>Dod‘toris</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 170 1453 2032 1800">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 170 1453 2032 1800">
+     <span class='ocr_line' id='line_1_2' title="bbox 170 1453 2032 1800; baseline -0.004 -2"><span class='ocrx_word' id='word_1_4' title='bbox 170 1608 939 1800; x_wconf 75' lang='lat' dir='ltr'>STATu</span> <span class='ocrx_word' id='word_1_5' title='bbox 1002 1453 2032 1800; x_wconf 57' lang='lat' dir='ltr'>ffussuco</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 80 1883 2168 2213">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 80 1883 2168 2213">
+     <span class='ocr_line' id='line_1_3' title="bbox 80 1883 2168 2213; baseline -0.015 2"><span class='ocrx_word' id='word_1_6' title='bbox 80 1894 1392 2213; x_wconf 65' lang='lat' dir='ltr'>EURO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1465 1883 2168 2201; x_wconf 81' lang='lat' dir='ltr'>PAE</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
